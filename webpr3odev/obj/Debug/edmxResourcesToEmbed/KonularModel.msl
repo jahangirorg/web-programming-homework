@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="oktDBModel1StoreContainer" CdmEntityContainer="oktDBEntities1">
+    <EntitySetMapping Name="Konular">
+      <EntityTypeMapping TypeName="oktDBModel1.Konular">
+        <MappingFragment StoreEntitySet="Konular">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Foto" ColumnName="Foto" />
+          <ScalarProperty Name="Btarih" ColumnName="Btarih" />
+          <ScalarProperty Name="Bitarih" ColumnName="Bitarih" />
+          <ScalarProperty Name="KonuBaslik" ColumnName="KonuBaslik" />
+          <ScalarProperty Name="ResimUzanti" ColumnName="ResimUzanti" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

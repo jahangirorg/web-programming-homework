@@ -1,0 +1,52 @@
+﻿@model List<Konular>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<article class="module width_3_quarter">
+    <header>
+        <h3 style="margin: 0;padding: 0;padding: 10px;border-radius: 0;" class="tabs_involved">Kitaplar Tablosu</h3>
+
+    </header>
+    <div class="tab_container">
+        <div id="tab1" class="tab_content">
+            <table class="tablesorter" cellspacing="0">
+                <thead>
+                    <tr>
+                        
+                        <th>Kitap ismi</th>
+                        <th>Eklenme tarihi</th>
+                        <th>Silinme tarihi</th>
+                        <th>ID</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            
+                            <td>@item.KonuBaslik</td>
+                            <td>@item.Btarih</td>
+                            <td>@item.Bitarih</td>
+                            <td>@item.ID</td>
+                            <th>@Html.ActionLink("Düzenle", "Edit", "Konular", new { id = item.ID }, null) | @Html.ActionLink("Sil", "Delete", "Konular", new { id = item.ID }, null)</th>
+                        </tr>
+
+
+                    }
+                    
+                  
+                </tbody>
+            </table>
+        </div><!-- end of #tab1 -->
+
+        <!-- end of #tab2 -->
+
+    </div><!-- end of .tab_container -->
+
+</article><!-- end of content manager article -->
+

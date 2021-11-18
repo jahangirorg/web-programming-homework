@@ -1,0 +1,19 @@
+﻿@model List<Microsoft.AspNet.Identity.EntityFramework.IdentityRole>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div style="width: 400px;background: #FFF;margin: 0 auto;margin-top: 10px;padding: 20px;border: 1px solid #000;" class="rl">
+
+    <ul>
+
+        @foreach (var item in Model)
+        {
+            <li style="list-style: none;padding: 10px;border-bottom: 1px dotted #000;">@item.Name - @item.Users.Count</li>
+        }
+
+    </ul>
+
+    @Html.ActionLink("Yeni Rol Ekle", "RolEkle")
+    </div>

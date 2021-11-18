@@ -1,0 +1,184 @@
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.csprojResolveAssemblyReference.cache
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\ApplicationInsights.config
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\csc.exe
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\vbc.exe
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\VBCSCompiler.exe
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\webpr3odev.dll.config
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\webpr3odev.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\webpr3odev.pdb
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Antlr3.Runtime.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\EntityFramework.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\EntityFramework.SqlServer.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.Web.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.ApplicationInsights.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Newtonsoft.Json.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Owin.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Helpers.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Mvc.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Optimization.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Razor.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.Deployment.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.Razor.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\WebGrease.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.Web.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.ApplicationInsights.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Helpers.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Mvc.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Optimization.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.Razor.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.Deployment.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\System.Web.WebPages.Razor.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Antlr3.Runtime.pdb
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Newtonsoft.Json.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\EntityFramework.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\EntityFramework.SqlServer.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.dll
+c:\users\cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.pdb
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Resources\Home.resx
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Resources\Home.en.resx
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Resources\Home.en.Designer.cs
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\Resources\Home.Designer.cs
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\bin\en\webpr3odev.resources.dll
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.Resources.Home.resources
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.Resources.Home.en.resources
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\webpr3odev.csproj.GenerateResource.Cache
+C:\Users\Cihanel\documents\visual studio 2015\Projects\webpr3odev\webpr3odev\obj\Debug\en\webpr3odev.resources.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\ApplicationInsights.config
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\csc.exe
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\vbc.exe
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Resources\Home.resx
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Resources\Home.en.resx
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Resources\Home.en.Designer.cs
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Resources\Home.Designer.cs
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\webpr3odev.dll.config
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\webpr3odev.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\webpr3odev.pdb
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\en\webpr3odev.resources.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Antlr3.Runtime.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\EntityFramework.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\EntityFramework.SqlServer.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.Web.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Newtonsoft.Json.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Owin.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Helpers.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Mvc.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Optimization.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Razor.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\WebGrease.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.Web.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Helpers.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Mvc.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Optimization.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.Razor.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Antlr3.Runtime.pdb
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Newtonsoft.Json.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\EntityFramework.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\EntityFramework.SqlServer.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.csprojAssemblyReference.cache
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.Resources.Home.resources
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.Resources.Home.en.resources
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.csproj.GenerateResource.cache
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.csproj.CoreCompileInputs.cache
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\en\webpr3odev.resources.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.csproj.CopyComplete
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.dll
+C:\Users\Cihangir\Desktop\JKhalilbayli-proje-odevi-697c3dc83e8b\webpr3odev\obj\Debug\webpr3odev.pdb

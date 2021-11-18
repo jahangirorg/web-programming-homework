@@ -1,0 +1,22 @@
+﻿@model webpr3odev.Areas.Admin.Models.RolKullaniciEkleModel
+@{
+    ViewBag.Title = "RolKullaniciEkle";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div style="width: 400px;background: #FFF;margin: 0 auto;margin-top: 10px;padding: 20px;border: 1px solid #000;" class="rk">
+
+    <h2 style="margin: 0;padding: 0;margin-bottom: 10px;">RolKullaniciEkle</h2>
+
+    @using (Html.BeginForm("RolKullaniciEkle", "RolYonetim", FormMethod.Post))
+    {
+
+        @Html.LabelFor(m => m.KullaniciAdi) @Html.TextBoxFor(m => m.KullaniciAdi)
+        <br /><br />
+        @Html.LabelFor(m => m.RolAdi) @Html.TextBoxFor(m => m.RolAdi)
+        <br /><br />
+        <input type="submit" />
+
+    }
+
+</div>

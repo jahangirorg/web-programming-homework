@@ -1,0 +1,57 @@
+﻿@model webpr3odev.Areas.Admin.Models.KonularModel
+
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+
+    <article style="width: 70%;float: right;" class="module width_full">
+        <header><h3 style="margin: 0;padding: 0;padding: 10px;border-radius: 0;" class="tabs_involved">Kitaplar Ekle</h3></header>
+        <div class="module_content">
+@using (Html.BeginForm("AddKonular", "Konular", FormMethod.Post, new { @class = "module_content", enctype = "multipart/form-data" }))
+{
+            <fieldset>
+                @Html.LabelFor(m=>m.KonuBaslik, new { @class = "posttitle" })
+                
+                @Html.TextBoxFor(m => m.KonuBaslik, new { @class="form-control", placeholder = "Baslik Gir" })
+                
+            </fieldset>
+
+            <fieldset>
+                @Html.LabelFor(m => m.Btarih, new { @class = "posttitle" })
+
+                @Html.TextBoxFor(m => m.Btarih, new { @class = "form-control", placeholder = "Baslangic Tarihi" })
+
+            </fieldset>
+            <fieldset>
+                @Html.LabelFor(m => m.Bitarih, new { @class = "posttitle" })
+
+                @Html.TextBoxFor(m => m.Bitarih, new { @class = "form-control", placeholder = "Bitis Tarihi" })
+
+            </fieldset>
+            <fieldset>
+                @Html.LabelFor(m => m.Resim, new { @class = "posttitle" })
+
+                @Html.TextBoxFor(m => m.Resim, new { @class = "form-control", placeholder = "Resim Uzantisi", type = "file"})
+
+            </fieldset>
+            <div class="submit_link">
+                <select>
+                    <option>Draft</option>
+                    <option>Published</option>
+                </select>
+                <input type="submit" value="Publish" class="alt_btn">
+                <input type="submit" value="Reset">
+            </div>
+}
+            <div class="clear"></div>
+        </div>
+        <footer>
+            
+        </footer>
+    </article><!-- end of post new article -->
+

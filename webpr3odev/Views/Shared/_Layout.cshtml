@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css/style.css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <nav>
+        <div class="navic">
+            
+            <ul>
+                <li>@Html.ActionLink("Anasayfa", "Index", "Home")</li>
+                <li>@Html.ActionLink("Hakkimizda", "About", "Home")</li>
+
+                <li>@Html.ActionLink("Iletisim" , "Contact" , "Home")</li>
+            </ul>
+            <div class="ug" style="margin-top: -15px;float: right;">
+                <ul style="float:right;">
+                @Html.Partial("_LoginPartial")
+                </ul>
+            </div>
+        </div>
+
+    </nav>
+    @RenderBody()
+
+    <div style="clear:both;">
+        <footer>
+            <div class="footeric">
+                <p>izin alinmadan alinti yapilamaz</p>
+
+                <ul>
+                    <li>@Html.ActionLink("Ana sayfa", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Hakkimizda", "About", "Home")</li>
+
+                    <li>@Html.ActionLink("Iletisim", "Contact", "Home")</li>
+
+                </ul>
+
+            </div>
+        </footer>
+        
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

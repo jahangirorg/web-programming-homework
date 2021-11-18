@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Konular>
+
+@{
+    Layout = null;
+}
+
+
+
+
+@foreach (var item in Model)
+{
+    <div class="kitap">
+        @if (item.ResimUzanti == null)
+        {<img src="/Content/images/resimyok.png" /> }
+        else
+        { <img src="@item.ResimUzanti">}
+
+        
+        <p>@item.KonuBaslik</p>
+        <a href="">
+
+        </a>
+
+
+    </div>
+}

@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="logo">
+    <img src="~/Content/images/logo.png">
+</div>
+
+<div class="arama">
+    <input type="search" placeholder="kitap ara..."></input>
+    <button value="Ara">Ara</button>
+</div>
+
+<div class="kitaplar">
+
+
+  @{Html.RenderAction("_KonuView", "Home");}
+
+    </div>

@@ -1,0 +1,15 @@
+﻿@model webpr3odev.Konular
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Delete</h2>
+Silmek istiyormusun?
+<br/>
+@Model.KonuBaslik
+<br/>
+@Html.ActionLink("Evet", "DeleteConfirm", new { id = Model.ID})
+<br/>
+@Html.ActionLink("Hayir", "Index")
